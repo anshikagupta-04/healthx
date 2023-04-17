@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(220, 219, 219);
+}
+.con{
+    width: 500px;
+    height: 750px;
+    background-color:transparent;
+    float: left;
+    border: solid #009688;
+    border-radius: 25px;
+    padding: 30px;
+    margin: 70px;
+}
+.con img{
+    width: 170px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: solid #009688;
+    border-radius: 2000px;
+}
+.con p{
+    font-size: 17px;
+}
+.con h2{
+    color: #009688;
+    text-align: center;
+}
+.head h1{
+    color: #03574f;
+    padding-left: 70px;
+    padding-top: 50px;
+    font-size: 40px;
+}
